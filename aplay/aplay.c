@@ -46,6 +46,7 @@
 #include <sys/uio.h>
 #include <sys/time.h>
 #include <sys/signal.h>
+#include <sys/stat.h>
 #include <asm/byteorder.h>
 #include "aconfig.h"
 #include "gettext.h"
